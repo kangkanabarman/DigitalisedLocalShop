@@ -76,9 +76,9 @@ This project aims to revolutionize local shopping by providing real-time invento
 - Expand to mobile apps using React Native.
 
 ## Contributors
-- **Nilancy Agarwal** 
+- **Kangkana Barman** 
 - Priyam Prasad Sahoo
-- Kangkana Barman
+- Nilacy Agarwal
 - Agnik Dutta
 
 ## License
