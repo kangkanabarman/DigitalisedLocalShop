@@ -75,12 +75,5 @@ This project aims to revolutionize local shopping by providing real-time invento
 - Introduce personalized recommendations for users.
 - Expand to mobile apps using React Native.
 
-## Contributors
-- **Kangkana Barman** 
-- Priyam Prasad Sahoo
-- Nilancy Agarwal
-- Agnik Dutta
 
-## License
-This project is licensed under the MIT License.
 
