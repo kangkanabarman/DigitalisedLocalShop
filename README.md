@@ -78,7 +78,7 @@ This project aims to revolutionize local shopping by providing real-time invento
 ## Contributors
 - **Kangkana Barman** 
 - Priyam Prasad Sahoo
-- Nilacy Agarwal
+- Nilancy Agarwal
 - Agnik Dutta
 
 ## License
